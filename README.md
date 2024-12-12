@@ -41,3 +41,4 @@ This is a simple Event Calendar web application built with React. The applicatio
 
 ## Link to Deployed App
 You can access the deployed app here:
+https://dynamic-event-calendar-seven.vercel.app/
